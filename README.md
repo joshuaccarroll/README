@@ -13,7 +13,7 @@ It's really hard to work for/with somebody you can't read. This document exists 
 _Here's what I'm focused on, the reasons I do the things I do at Creative Market._
 
 1. I wholeheartedly believe in this company and its product, and I want to leave both better each day than they were the day before. I love working here, and I am committed to Creative Market's long-term success. 
-2. It is my job and my privelege to work everyday toward building a world class engineering team. And so I work to help individual engineers improve themselves in strategic ways. Better engineers raise the level of the entire team, and in turn, the company and the product.
+2. It is my job and my privilege to work everyday toward building a world class engineering team. And so I work to help individual engineers improve themselves in strategic ways. Better engineers raise the level of the entire team, and in turn, the company and the product.
 3. I believe the best ideas for how to improve a thing often come from the people who are in the weeds building that thing. Got an idea? I want to hear it.
 4. The best engineers (and designers and content writers and product managers, etc.) are those who care deeply about the product and do not wait for someone to ask them to make it better. If you see something we need to improve, I want to empower you to make it happen.
 5. Something magical happens when a person's passions and skills align with company needs. So I will ask my engineers questions like "What would you work on if nobody was telling you what to do?" and I will ask execs, designers, and product managers questions like "What project would you start if you had an engineer to build it?" If there's alignment and it makes sense, I will work hard to connect the right people to the project.
@@ -35,7 +35,7 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 
 1. The Sorting Hat sorted me into [Gryffindor](https://www.pottermore.com/collection/all-about-gryffindor).
 2. My top five strengths according to Strengths Finder are: [Intellection](http://www.gallup.com/businessjournal/691/intellection.aspx), [Ideation](http://www.gallup.com/businessjournal/679/ideation.aspx), [Strategic](http://www.gallup.com/businessjournal/718/strategic.aspx), [Connectedness](http://www.gallup.com/businessjournal/649/connectedness.aspx), [Maximizer](http://www.gallup.com/businessjournal/697/maximizer.aspx)
-3. My Myers-Briggs type is [INTP-A](https://www.16personalities.com/intp-personality).
+3. My Myers-Briggs type is [INTP-A](https://www.16personalities.com/intp-personality) (Individual traits: Introverted – 51%, Intuitive – 80%, Thinking – 58%, Prospecting – 69%, Assertive – 71%).
 4. I am a weird mix of introvert and extravert. I recharge in solitude, and I prefer small, intimate gatherings of close family and friends to social events, large family gatherings, meetups, and parties. But I am also totally comfortable being on stage, whether that's public speaking or making music.
 
 ## I have a life beyond work
