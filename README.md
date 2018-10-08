@@ -5,7 +5,7 @@ It's really hard to work for/with somebody you can't read. This document exists 
 
 ## TL;DR:
 * I love Creative Market, and it is my passion to help engineers grow and thrive here.
-* I am a big picture guy who needs the _why_ before the _what_ and the_ how, and I can sometimes get carried away and talk too much in a meeting.
+* I am a big picture guy who needs the _why_ before the _what_ and the _how_, and I can sometimes get carried away and talk too much in a meeting.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
 * I am a husband/dad, and I recharge my batteries by finding solitude, reading, writing, being creative, and (ironically) performing.
 
