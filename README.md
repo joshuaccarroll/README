@@ -44,10 +44,10 @@ _And it's a little crazy._
 
 1. My wife and I have been married for almost 16 years, and we're finally beginning to figure each other out. A little. :)
 2. We have two biological daughters and two foster daughters. The youngest isn't yet 1, the oldest is 12. If I seem tired, this is why.
-3. The only television I watch is with my wife. Currently, we follow Superstore and Agents of Shield together. She watches several others, and I catch bits and pieces.
+3. I don't play video games, and the only television I watch is with my wife. Currently, we follow Superstore and Agents of Shield together. She watches several others, and I catch bits and pieces.
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. I founded an online reading group called [Dads Who Read](http://DadsWhoRead.com).
 6. Writing is my other passion. Mostly, I write fiction (some of which winds up on [this podcast](http://TelltalesWriting.com)), but I also write for [Creative Market's Medium blog](https://medium.com/building-creative-market). You can find my articles [here](https://medium.com/@JoshTellsAStory).
 7. I also like to make music (I sing and play several instruments; guitar is my go-to), shoot photos, and cook, though I don't get to do any of those as often as I would like these days.
 ---
-### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack (@josh.carroll) and on Twitter (@JoshTellsAStory).
+### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack (@josh.carroll) and on Twitter ([@JoshTellsAStory](https://twitter.com/JoshTellsAStory)).
