@@ -50,4 +50,4 @@ _And it's a little crazy._
 6. Writing is my other passion. Mostly, I write fiction (some of which winds up on [this podcast](http://TelltalesWriting.com)), but I also write for [Creative Market's Medium blog](https://medium.com/building-creative-market). You can find my articles [here](https://medium.com/@JoshTellsAStory).
 7. I also like to make music (I sing and play several instruments; guitar is my go-to), shoot photos, and cook, though I don't get to do any of those as often as I would like these days.
 ---
-### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack (@josh.carroll) and on Twitter ([@JoshTellsAStory](https://twitter.com/JoshTellsAStory)).
+### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack ([@josh.carroll](https://creativemarket.slack.com/messages/@josh.carroll)) and on Twitter ([@JoshTellsAStory](https://twitter.com/JoshTellsAStory)).
