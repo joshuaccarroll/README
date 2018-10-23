@@ -18,6 +18,20 @@ _Here's what I'm focused on, the reasons I do the things I do at Creative Market
 4. The best engineers (and designers and content writers and product managers, etc.) are those who care deeply about the product and do not wait for someone to ask them to make it better. If you see something we need to improve, I want to empower you to make it happen.
 5. Something magical happens when a person's passions and skills align with company needs. So I will ask my engineers questions like "What would you work on if nobody was telling you what to do?" and I will ask execs, designers, and product managers questions like "What project would you start if you had an engineer to build it?" If there's alignment and it makes sense, I will work hard to connect the right people to the project.
 
+## My areas of focus
+_I've been allowed to own a few topics in the CM Engineering org. Here they are:_
+1. Security. I will work with both app engineers and web ops to shore up our security from an application and infrastructure perspective.
+2. QA. We need a solid QA process, and I am working with a lot of people across the organization to solidify what that looks like moving forward. If you have questions, comments, suggestions, or complaints, please bring them to me.
+3. The relationship between Product and Engineering. Ultimately, we engineers are here to build an incredible product, but that can't happen if we are not on the same page with our Product team. If something feels off there, please let me know, and I will work hard to make it right.
+4. Back end code modernization. You know our tech debt. Let's fix it together.
+5. Additionally, I'm working to create a culture of support, growth, and coaching for our engineers at Creative Market. More to come on this.
+
+## What I don't do
+_I do a lot of things at Creative Market, but not everything._
+1. Tell you how to do your job. You were hired to be an expert, and you have my trust. I will give you feedback, but I will not micromanage.
+2. Code. Okay, I might occasionally jump in to support a project, but if that happens, it's a bug, not a feature.
+3. Set product process. I work really tightly with our Product team to ensure both PMs and engineers are set up for success, but they are in charge of how our tools are used and how our sprints are run.
+
 ## How I communicate
 _I have quirks. Here they are._
 
