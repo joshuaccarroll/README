@@ -20,8 +20,8 @@ _Here's what I'm focused on, the reasons I do the things I do at Creative Market
 
 ## My areas of focus
 _I've been allowed to own a few topics in the CM Engineering org. Here they are:_
-1. Security. I will work with both app engineers and web ops to shore up our security from an application and infrastructure perspective.
-2. QA. We need a solid QA process, and I am working with a lot of people across the organization to solidify what that looks like moving forward. If you have questions, comments, suggestions, or complaints, please bring them to me.
+1. Security. I am working with both app engineers and web ops to shore up our security from an application and infrastructure perspective.
+2. QA. We need a solid QA process, and I am coordinating with a lot of people across the organization to solidify what that looks like moving forward. If you have questions, comments, suggestions, or complaints, please bring them to me.
 3. The relationship between Product and Engineering. Ultimately, we engineers are here to build an incredible product, but that can't happen if we are not on the same page with our Product team. If something feels off there, please let me know, and I will work hard to make it right.
 4. Back end code modernization. You know our tech debt. Let's fix it together.
 5. Additionally, I'm working to create a culture of support, growth, and coaching for our engineers at Creative Market. More to come on this.
