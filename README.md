@@ -50,7 +50,7 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 _And it's a little crazy._
 
 
-1. My wife and I have been married for almost 17 years, and we're finally beginning to figure each other out. A little. :)
+1. My wife and I have been married for 17 years, and we're finally beginning to figure each other out. A little. :)
 2. We have two biological daughters and two foster daughters. The youngest is an infant, the oldest is 13. If I seem tired, this is why.
 3. I don't play video games, and the only television I watch is with my wife.
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
