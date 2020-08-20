@@ -1,7 +1,7 @@
 # Hi! I'm Josh.
 ### And I'm an Engineering Manager at [Creative Market](https://creativemarket.com).
 
-It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. (See what I did there?) I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know. Or, better yet, clone this repo, create a branch, and give me a PR. _This is a work in progress, as am I._
+It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. (See what I did there?) I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know. Or, better yet, clone this repo, create a branch, and give me a PR. This is a work in progress, _as am I._
 
 ## TL;DR:
 * I love Creative Market, and it is my passion to help engineers grow and thrive here.
@@ -21,9 +21,8 @@ _Here's what I'm focused on, the reasons I do the things I do at Creative Market
 
 ## What I don't do
 _I do a lot of things at Creative Market, but not everything._
-1. Tell you how to do your job. You were hired to be an expert, and you have my trust. I will give you feedback, but I will not micromanage.
-2. Code. Okay, I might occasionally jump in to support a project, but if that happens, it's a bug, not a feature.
-3. Set product process. I work really tightly with our Product team to ensure both PMs and engineers are set up for success, but they are in charge of how our tools are used and how our sprints are run.
+1. **Tell you how to do your job.** You were hired to be an expert, and you have my trust. I will give you feedback, but I will not micromanage.
+2. **Write (much) code.** I might occasionally jump in to support a project or squash a bug, but my job is to empower engineers to write great code, not to write great code myself.
 
 ## How I communicate
 _I have quirks. Here they are._
@@ -32,9 +31,9 @@ _I have quirks. Here they are._
 2. **I will not lie.** There may be times that I am required to withhold information. That's the nature of the job. But I will not be dishonest with you.
 3. **I do not speak between the lines.** Please do not read between them. I will be direct when giving feedback. If you think you are hearing something implied that I am not explicitly saying, you are always welcome to ask.
 4. **I despise passive aggression.** I will not be passive agressive with you. Ever. And I ask the same in return. If you have a beef with me or another coworker, _that is 100% okay._ Let's talk it out. If the problem is with me, I will thank you for your feedback and work to resolve the issue with you and be better. That is my promise. If the problem is with someone else, I will give you direction/advice on how to resolve it, and I will even facilitate a discussion if that would be helpful. But you should know that I will also ask if you have spoken to that person directly, and if you have not, I will encourage you to do so. Direct peer feedback is incredibly valuable, and you should not withhold it.
-5. **I need the _why_ before I can understand the details.** If you ask me to help you think through some code (and you should!), I will first need to understand what the project is supposed to accomplish before I will be capable of thinking about syntax, patterns, or strategy. Most people start with _what_, then go to _how_, and end up at _why_. My brain works the other way around.
+5. **I need the _why_ before I can understand the details.** If you ask me to help you think through some code (and you should!), I will first need to understand what the project is supposed to accomplish before I will be capable of thinking about syntax, patterns, or strategy. Many people start with _what_, then go to _how_, and end up at _why_. That's great! My brain just works the other way around.
 6. **I tend to think out loud.** This means that sometimes I am just throwing ideas at the wall rather than giving orders. It means that I may ramble. I am working to get better at (A) stating clearly whether I am dreaming or giving direction, (B) staying focused on the topic at hand, and (C) speaking concisely. If you feel I am getting off track (especially in a 1:1), you have my permission to (please) interrupt me. I value correction, and I will thank you for it.
-7. **When I get excited, I can sometimes steamroll a conversation.** And that's not okay. I have been working for a long time to overcome _Habit #2: Adding too much value_, "The overwhelming desire to add [my] two cents to every discussion" from [this book](https://www.amazon.com/What-Got-Here-Wont-There-ebook/dp/B000Q9J128). I have come a long way, but in the past I have been known to front-load my opinions before giving others a chance to share theirs, ask questions only so I could share my answers, or interrupt and finish somebody else's sentence (often incorrectly) when I agree with what (I think) they are saying. Know that, if I do any of these things, it comes from my enthusiasm and not some malignant place. But it is also not acceptable. So if you see me falling into these bad habits, please raise a hand and/or interrupt me and say "Josh, you're doing that thing again." I want to get better, and I value your help.
+7. **When I get excited, I can sometimes steamroll a conversation.** I have come a long way, but in the past I have been known to front-load my opinions before giving others a chance to share theirs, ask questions only so I could share my answers, or interrupt and finish somebody else's sentence (often incorrectly) when I agree with what (I think) they are saying. Know that, if I do any of these things, it comes from my enthusiasm and not some malignant place. But it is also not acceptable. So if you see me falling into these bad habits, please raise a hand and/or interrupt me and say "Josh, you're doing that thing again." I want to be better, and I value your help.
 
 
 ## My personality
@@ -51,11 +50,10 @@ _And it's a little crazy._
 
 
 1. My wife and I have been married for 17 years, and we're finally beginning to figure each other out. A little. :)
-2. We have two biological daughters and two foster daughters. The youngest is an infant, the oldest is 13. If I seem tired, this is why.
+2. We have two biological daughters and two foster daughters. The youngest is an infant, the oldest is 14. If I seem tired, this is why.
 3. I don't play video games, and the only television I watch is with my wife.
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
-5. I founded an online reading group called [Dads Who Read](http://DadsWhoRead.com).
-6. Writing is my other passion. Mostly, I write fiction (I wrote [this novel](http://bit.ly/sarah-ann-lewis) and contribute to [this podcast](http://TelltalesWriting.com)), but I also write for [Creative Market's Medium blog](https://medium.com/building-creative-market). You can find my articles [here](https://medium.com/@JoshTellsAStory).
-7. I also like to make music (I sing and play several instruments; guitar is my go-to), shoot photos, and cook, though I don't get to do any of those as often as I would like these days.
+5. Writing is my other passion. Mostly, I write fiction (I wrote [this novel](http://bit.ly/sarah-ann-lewis) and contribute to [this podcast](http://TelltalesWriting.com)), but I also write for [Creative Market's Medium blog](https://medium.com/building-creative-market). You can find my articles [here](https://medium.com/@JoshTellsAStory).
+6. I also like to make music (I sing and play several instruments; guitar is my go-to), shoot photos, and cook, though I don't get to do any of those as often as I would like these days.
 ---
 ### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack ([@josh.carroll](https://creativemarket.slack.com/messages/@josh.carroll)) and on Twitter ([@JoshTellsAStory](https://twitter.com/JoshTellsAStory)).
