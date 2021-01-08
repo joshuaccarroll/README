@@ -4,7 +4,7 @@
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. (See what I did there?) I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know. Or, better yet, clone this repo, create a branch, and give me a PR. This is a work in progress, _as am I._
 
 ## TL;DR:
-* I love Creative Market, and it is my passion to help engineers grow and thrive here.
+* I love the creative arts and technologo, and it is my passion to help creators and engineers grow and thrive however I can.
 * I am a big picture guy who needs the _why_ before the _what_ and the _how_.
 * I can sometimes get carried away and talk too much in a meeting.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
@@ -49,11 +49,11 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 _And it's a little crazy._
 
 
-1. My wife and I have been married for 17 years, and we're finally beginning to figure each other out. A little. :)
-2. We have two biological daughters and two foster daughters. The youngest is an infant, the oldest is 14. If I seem tired, this is why.
-3. I don't play video games, and the only television I watch is with my wife.
+1. My wife and I have been married for 18 years, and we're finally beginning to figure each other out. A little. :)
+2. We have two biological daughters and two foster daughters. The youngest is one year old, the oldest is fourteen. If I seem tired, this is why.
+3. I don't play video games, and only a little television. I am caught up on The Mandalorian, so feel free to discuss your theories with me.
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
-5. Writing is my other passion. Mostly, I write fiction (I wrote [this novel](http://bit.ly/sarah-ann-lewis) and contribute to [this podcast](http://TelltalesWriting.com)), but I also write for [Creative Market's Medium blog](https://medium.com/building-creative-market). You can find my articles [here](https://medium.com/@JoshTellsAStory).
-6. I also like to make music (I sing and play several instruments; guitar is my go-to), shoot photos, and cook, though I don't get to do any of those as often as I would like these days.
+5. Writing is my other passion. Mostly, I write fiction (I wrote [this novel](http://bit.ly/sarah-ann-lewis) and contribute to [this podcast](http://TelltalesWriting.com)), but I also blog about creativity, parenting, and engineering from time to time. You can find my articles [here](https://medium.com/@JoshTellsAStory).
+6. I like to make music (I sing and play several instruments; guitar is my go-to), dabble in photography, and cook, though I don't get to do any of those as often as I would like these days.
 ---
 ### Got a question I didn't answer here? Just ask. I'm on Creative Market's Slack ([@josh.carroll](https://creativemarket.slack.com/messages/@josh.carroll)) and on Twitter ([@JoshTellsAStory](https://twitter.com/JoshTellsAStory)).
