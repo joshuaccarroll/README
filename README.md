@@ -4,7 +4,7 @@
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. (See what I did there?) I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know. Or, better yet, clone this repo, create a branch, and give me a PR. This is a work in progress, _as am I._
 
 ## TL;DR:
-* I love the creative arts and technologo, and it is my passion to help creators and engineers grow and thrive however I can.
+* I love the creative arts and technology, and it is my passion to help creators and engineers grow and thrive however I can.
 * I am a big picture guy who needs the _why_ before the _what_ and the _how_.
 * I can sometimes get carried away and talk too much in a meeting.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
