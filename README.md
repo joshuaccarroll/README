@@ -40,9 +40,9 @@ _I have quirks. Here they are._
 _I am a sucker for personality tests, and I think personality types are fascinating. Here's more than you could possibly want to know about mine._
 
 1. The Sorting Hat sorted me into [Gryffindor](https://www.pottermore.com/collection/all-about-gryffindor).
-2. My top five strengths according to Strengths Finder are: [Intellection](http://www.gallup.com/businessjournal/691/intellection.aspx), [Ideation](http://www.gallup.com/businessjournal/679/ideation.aspx), [Strategic](http://www.gallup.com/businessjournal/718/strategic.aspx), [Connectedness](http://www.gallup.com/businessjournal/649/connectedness.aspx), [Maximizer](http://www.gallup.com/businessjournal/697/maximizer.aspx)
+2. My top five strengths according to Strengths Finder are: [Intellection](http://www.gallup.com/businessjournal/691/intellection.aspx), [Ideation](http://www.gallup.com/businessjournal/679/ideation.aspx), [Strategic](http://www.gallup.com/businessjournal/718/strategic.aspx), [Connectedness](http://www.gallup.com/businessjournal/649/connectedness.aspx), [Maximizer](http://www.gallup.com/businessjournal/697/maximizer.aspx).
 3. My Myers-Briggs type is [INTP-A](https://www.16personalities.com/intp-personality) (Individual traits: Introverted – 51%, Intuitive – 80%, Thinking – 58%, Prospecting – 69%, Assertive – 71%).
-4. My Enneagram type is a [4 with a 3 wing](https://www.crystalknows.com/enneagram/type-4-wing-3)
+4. My Enneagram type is a [4 with a 3 wing](https://www.crystalknows.com/enneagram/type-4-wing-3).
 5. I am a weird mix of introvert and extravert. I recharge in solitude, and I prefer small, intimate gatherings of close family and friends to social events, large family gatherings, meetups, and parties. But I am also totally comfortable being on stage, whether that's public speaking or making music.
 
 ## I have a life beyond work
