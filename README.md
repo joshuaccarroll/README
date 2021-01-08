@@ -1,5 +1,5 @@
 # Hi! I'm Josh.
-### And I'm an Engineering Manager at [Creative Market](https://creativemarket.com).
+### And I'm a Senior Engineering Manager at [Creative Market](https://creativemarket.com).
 
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. (See what I did there?) I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know. Or, better yet, clone this repo, create a branch, and give me a PR. This is a work in progress, _as am I._
 
