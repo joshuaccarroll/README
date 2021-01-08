@@ -49,9 +49,9 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 _And it's a little crazy._
 
 
-1. My wife and I have been married for eighteen years, and we're finally beginning to figure each other out. A little. :)
+1. My wife and I have been married for eighteen years, and we're finally beginning to figure each other out.
 2. We have two biological daughters and two foster daughters. The youngest is one year old, the oldest is fourteen. If I seem tired, this is why.
-3. I don't play video games, and only a little television. I am caught up on The Mandalorian, so feel free to discuss your theories with me.
+3. I don't play video games, and I only watch a little television. I am caught up on The Mandalorian, though, so feel free to discuss your Star Wars universe theories with me.
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. Writing is my other passion. Mostly, I write fiction (I wrote [this novel](http://bit.ly/sarah-ann-lewis) and contribute to [this podcast](http://TelltalesWriting.com)), but I also blog about creativity, parenting, and engineering from time to time. You can find my articles [here](https://medium.com/@JoshTellsAStory).
 6. I like to make music (I sing and play several instruments; guitar is my go-to), dabble in photography, and cook, though I don't get to do any of those as often as I would like these days.
