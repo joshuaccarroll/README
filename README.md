@@ -5,6 +5,7 @@ It's really hard to work for/with somebody you can't read. This document exists 
 
 ## TL;DR:
 * I love the creative process, problem solving, and technology, and it is my passion to help engineers grow and thrive however I can.
+* I believe in honest, direct feedback. I will give it, and I want to receive it.
 * I am a big picture guy who needs the _why_ before the _what_ and the _how_.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
 * I am a husband/dad/foster dad with many creative hobbies. I recharge my batteries by finding solitude, reading, writing, making things, and (ironically for an introvert) performing.
@@ -13,14 +14,16 @@ It's really hard to work for/with somebody you can't read. This document exists 
 _Here's what I'm focused on, the reasons I do the things I do._
 
 1. It is my job and my privilege to work everyday toward building a world-class engineering team. I will work to help our team of engineers improve in not only their tech skills, but also in planning, estimating, and communicating. Better engineers raise the level of the entire team, and in turn, the company and the product.
-2. I believe the best ideas for how to improve a thing often come from the people who are in the weeds building that thing. Got an idea? I want to hear it.
-3. The best engineers (and managers and designers and content writers and product managers, etc.) are those who care deeply about the product and do not wait for someone to ask them to make it better. If you see something we need to improve, I want to empower you to make it happen.
-4. Something magical happens when a person's passions and skills align with company needs. So I will ask my team questions like "What would you work on if nobody was telling you what to do?" and I will ask execs and product managers questions like "What project would you start if you had a engineers to build it?" If there's alignment and it makes sense, I will work hard to connect the right people to the project.
+2. I believe in straightforward, honest communication. If you are unclear about something, ask. If something doesn't feel right, speak up. It is not only okay to "say the thing," it is your job and mine to be as clear as possible about what is and is not working, what feels good and what does not. This is how we level up the team and the company.
+3. I believe the best ideas for how to improve a thing often come from the people who are in the weeds building that thing. Got an idea? I want to hear it.
+4. The best engineers (and managers and designers and content writers and product managers, etc.) are those who care deeply about the product and do not wait for someone to ask them to make it better. If you see something we need to improve, I want to empower you to make it happen.
+5. Something magical happens when a person's passions and skills align with company needs. So I will ask my team questions like "What would you work on if nobody was telling you what to do?" and I will ask execs and product managers questions like "What project would you start if you had a engineers to build it?" If there's alignment and it makes sense, I will work hard to connect the right people to the project.
 
 ## What I don't do
 _I do a lot of things, but not everything. I will not..._
-1. **Tell you how to do your job.** You were hired to be an expert, and you have my trust. I will give you feedback, but I will not micromanage.
-2. **Write (much) code.** I might occasionally jump in to support a project or squash a bug, but my job is to empower engineers to write great code, not to write great code myself.
+1. **Talk around what I need to say.** I will be very clear with you, and I expect you to be clear with me as well. If it feels like I am being vague, say so. We are all adults, and I expect us to communicate proactively and with maturity.
+2. **Tell you how to do your job.** You were hired to be an expert, and you have my trust. I will give you feedback, but I will not micromanage.
+3. **Write (much) code.** I might occasionally jump in to support a project or squash a bug, but my job is to empower engineers to write great code, not to write great code myself.
 
 ## How I communicate
 _I have quirks. Here they are._
