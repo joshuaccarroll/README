@@ -28,7 +28,7 @@ _I do a lot of things, but not everything. I will not..._
 ## How I communicate
 _I have quirks. Here they are._
 
-1. **I will do my best to communicate with you in a way that sets you up for success.** If you need me to be more direct, I will do so. If you need me to give y If something isn't feeling right about the way I am working/communicating with you, let me know, and I will adjust.
+1. **I will do my best to communicate with you in a way that sets you up for success.** If you need me to be more direct, I will do so. If you need me to give you more encouragement, I am happy to oblige. If something isn't feeling right about the way I am working/communicating with you, let me know, and I will adjust.
 2. **I will not lie.** There may be times that I am required to withhold information. That's the nature of the job. But I will not be dishonest with you.
 3. **I do not speak between the lines.** Please do not read between them. I will be direct when giving feedback. If you think you are hearing something implied that I am not explicitly saying, you are always welcome to ask.
 4. **I despise passive aggression.** I will not be passive agressive with you. Ever. And I ask the same in return. If you have a beef with me or another coworker, _that is 100% okay._ Let's talk it out. If the problem is with me, I will thank you for your feedback and work to resolve the issue with you and be better. That is my promise.
