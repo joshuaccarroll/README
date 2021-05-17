@@ -8,12 +8,12 @@ It's really hard to work for/with somebody you can't read. This document exists 
 * I believe in honest, direct feedback. I will give it, and I want to receive it.
 * I am a big picture guy who needs the _why_ before the _what_ and the _how_.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
-* I am a husband/dad/foster dad with many creative hobbies. I recharge my batteries by finding solitude, reading, writing, making things, and (ironically for an introvert) performing.
+* I am a husband/dad/foster dad with many creative hobbies. I recharge my batteries by finding solitude, reading, writing, making music, and (ironically for an introvert) performing.
 
 ## My work vision
 _It is my job and my privilege to build a world-class engineering team. Here is what that looks like:_
 
-1. I believe our team must **excel**, not only excel at writing **code** and building smart **infrastructure,** but also at **project planning, estimating, communicating, putting the customer's needs first, and being trusted partners to the rest of the org.** Engineers can and should raise the level of the entire team, and in turn, the company and the product. I will do whatever I can to level each of us up in all of these areas.
+1. I believe our team must **excel**, not only at writing **code** and building smart **infrastructure,** but also at **project planning, estimating, communicating, putting the customer's needs first, and being trusted partners to the rest of the org.** Engineers can and should raise the level of the entire team, and in turn, the company and the product. I will do whatever I can to level each of us up in all of these areas.
 2. I believe in **straightforward, honest communication.** If you are unclear about something, ask. If something doesn't feel right, speak up. It is not only okay to **say the thing,** it is your job and mine to be as clear as possible about what is and is not working, what feels good and what does not. This is how we level up the team and the company.
 3. I believe in **facilitating creative problem solving,** no matter the source. The best ideas for how to improve a thing often come from the people who are in the weeds building that thing. Got an idea? I want to hear it.
 4. I believe the best engineers are those who care deeply about the product and do not wait for someone to ask them to make it better. If you see something we need to improve, I want to **empower you to make it happen.**
