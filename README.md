@@ -55,4 +55,4 @@ _And it's a little crazy._
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [this song](https://distrokid.com/hyperfollow/joshtellsastory/heres-a-boy-2) (I sing and play several instruments; guitar and ukulele are my go-tos). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
 ---
-### Got a question I didn't answer here? Just ask. Hit me up on Slack!
+### Got a question I didn't answer here? Just ask. Hit me up on [Slack](https://stoa-fund.slack.com/archives/D03U1KC6V0A)!
