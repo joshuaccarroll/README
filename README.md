@@ -1,5 +1,5 @@
 # Hi! I'm Josh.
-### And I'm a Senior Engineering Manager at [Glowforge](https://glowforge.com).
+### And I'm a Senior Engineering Manager at [Stoa](https://flipos.com/).
 
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know! This is a work in progress, _as am I._
 
@@ -13,17 +13,17 @@ It's really hard to work for/with somebody you can't read. This document exists 
 ## My work vision
 _It is my job and my privilege to help our engineering team become the most amazing version of itself. Here is what that looks like:_
 
-1. I believe the best engineers excel, not only at **programming,** but also at **thinking and communicating.** They put just as much effort into project planning, estimating, and communicating as they do into writing code. Engineers can and should raise the level of the entire team, and in turn, the company and the product. I will do whatever I can to level each of us up in all of these areas.
+1. I believe the best engineers excel, not only at **engineering,** but also at **thinking and communicating.** Engineers put just as much effort into project planning, estimating, and communicating as they do into implementing technical solutions. Engineers can and should raise the level of the entire team, and in turn, the company and the product. I will do whatever I can to level each of us up in all of these areas.
 2. I believe in **straightforward, honest, compassionate communication.** If you are unclear about something, ask. If something doesn't feel right, just speak up. My goal is to be a safe and empathetic sounding board for anybody on the team. It is not only okay to **say the thing,** it is your job and mine to be as clear as possible about what is and is not working, what feels good and what does not. This is how we level up the team and the company.
 3. I believe in **facilitating creative problem solving,** no matter the source. The best ideas for how to improve a thing often come from the people who are in the weeds building that thing. Got an idea? I want to hear it!
-4. I believe the best engineers are those who care deeply about the customers and the product. They always look for ways to make the code and the product better. If you see something we need to improve, **let's talk about it!**
+4. I believe the best engineers are those who care deeply about the customers and the product. They always look for ways to make the technology and the product better. If you see something we need to improve, **let's talk about it!**
 5. I love to **align passions and skills align with company needs.** I will ask my team questions like "What would you work on if nobody was telling you what to do?" and I will ask execs and product managers questions like "What project would you start if you had a engineers to build it?" If there's alignment and it makes sense, I will work hard to connect the right people to the project.
 
 ## What I don't do
 _I do a lot of things, but not everything. I will not..._
 1. **Talk around what I need to say.** I will be very clear with you, and I expect you to be clear with me as well. If it feels like I am being vague, say so. We are all adults, and I will do my best to facilitate proactive and with mature communication.
 2. **Micromanage you.** You were hired to be an expert, and you have my trust. I will give you feedback, and I will listen. You are always welcome to disagree. I may have to occasionally make a decision that you disagree with, and I will expect you to disagree and commit. But if you ever feel that I am ingoring your expertise or that you are not being heard, please say so!
-3. **Write a lot of code.** My job is to empower engineers to write great code, not to write great code myself.
+3. **Do your job** My job is to empower engineers to create great solutions, not to implement those solutions myself.
 
 ## How I communicate
 _I have quirks. Here they are._
@@ -49,10 +49,10 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 ## I have a life beyond work
 _And it's a little crazy._
 
-1. My wife and I have been married for nineteen years, and we're finally beginning to figure each other out.
-2. We have two biological daughters and two foster daughters. The youngest is two years old, the oldest is fifteen. If I seem tired, this is almost certainly why. :)
+1. My wife and I have been married for almost twenty years, and we're finally beginning to figure each other out.
+2. We have two biological daughters and two foster daughters. The youngest is three years old, the oldest is sixteen. If I seem tired, this is almost certainly why. :)
 3. I don't play video games, and I only watch a little television. I do my best to stay caught up on MCU and Star Wars, though, so feel free to discuss your fan theories with me!
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [this song](https://distrokid.com/hyperfollow/joshtellsastory/heres-a-boy-2) (I sing and play several instruments; guitar and ukulele are my go-tos). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
 ---
-### Got a question I didn't answer here? Just ask. Hit me up on Glowforge's Slack!
+### Got a question I didn't answer here? Just ask. Hit me up on Slack!
