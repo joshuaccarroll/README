@@ -1,5 +1,5 @@
 # Hi! I'm Josh.
-### And I'm the Director of Engineering at [Stoa](https://flipos.com/).
+### And I'm the Director of Engineering at [Stoa](https://betterwithstoa.com/).
 
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know! This is a work in progress, _as am I._
 
