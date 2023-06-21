@@ -1,5 +1,5 @@
 # Hi! I'm Josh.
-### And I'm a Senior Engineering Manager at [Stoa](https://flipos.com/).
+### And I'm the Director of Engineering at [Stoa](https://flipos.com/).
 
 It's really hard to work for/with somebody you can't read. This document exists to help you read *me*. I hope it is helpful to you. If it is not, or if you feel I am misstating something here, let me know! This is a work in progress, _as am I._
 
@@ -49,8 +49,8 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 ## I have a life beyond work
 _And it's a little crazy._
 
-1. My wife and I have been married for almost twenty years, and we're finally beginning to figure each other out.
-2. We have two biological daughters and two foster daughters. The youngest is three years old, the oldest is sixteen. If I seem tired, this is almost certainly why. :)
+1. My wife and I have been married for twenty years, and we're finally beginning to figure each other out.
+2. We have two biological daughters and two foster daughters. The youngest is four years old, the oldest is almost seventeen. If I seem tired, this is almost certainly why. :)
 3. I don't play video games, and I only watch a little television. I do my best to stay caught up on MCU and Star Wars, though, so feel free to discuss your fan theories with me!
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [this song](https://distrokid.com/hyperfollow/joshtellsastory/heres-a-boy-2) (I sing and play several instruments; guitar and ukulele are my go-tos). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
