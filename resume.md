@@ -1,5 +1,3 @@
-Absolutely, let's give more emphasis to the job titles:
-
 # Joshua Carroll
 ## Seasoned Software Engineering Leader | Director Level and Above
 
