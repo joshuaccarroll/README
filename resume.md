@@ -9,6 +9,7 @@ Over 20 years of success in strategizing and executing on business objectives, m
 
 **Location:** Fort Worth, TX  
 **LinkedIn:** https://www.linkedin.com/in/josh-carroll-83637912/
+
 *Email and Phone available upon request*
 
 ## Skills
