@@ -1,7 +1,7 @@
 Absolutely, let's give more emphasis to the job titles:
 
 # Joshua Carroll
-## Seasoned Software Engineering Leader | Director & VP Level
+## Seasoned Software Engineering Leader | Director Level and Above
 
 Over 20 years of success in strategizing and executing on business objectives, managing high-performing engineering teams, and driving the development of superior software products. Proven experience in fostering a collaborative culture, enhancing technical processes, and leading teams in e-commerce, B2C, and B2B sectors. Now seeking to utilize my strategic leadership to influence the broader business objectives as a Director or VP of Engineering.
 
