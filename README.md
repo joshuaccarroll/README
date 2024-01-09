@@ -53,6 +53,6 @@ _And it's a little crazy._
 2. We have four daughters. The youngest is four years old, the oldest is seventeen. If I seem tired, this is almost certainly why. :)
 3. I don't play video games, and I only watch a little television. I do my best to stay caught up on MCU and Star Wars, though, so feel free to discuss your fan theories with me!
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
-5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [this song](https://distrokid.com/hyperfollow/joshtellsastory/heres-a-boy-2) (I sing and play several instruments; guitar and ukulele are my go-tos). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
+5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [these songs](https://open.spotify.com/artist/4fBn6yF8Y97f4v1J8YcJ1v) (I sing and play several instruments; guitar is my go-to). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
 ---
 ### Got a question I didn't answer here? Just ask. Hit me up on [Slack](https://stoa-fund.slack.com/archives/D03U1KC6V0A)!
