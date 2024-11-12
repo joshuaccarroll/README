@@ -8,7 +8,7 @@ It's really hard to work for/with somebody you can't read. This document exists 
 * I believe in honest, direct feedback. I will give it, and I want to receive it.
 * I am a big picture guy who needs the _why_ before the _what_ and the _how_.
 * I am logical and action oriented. I prefer to think (which I usually do out loud) before making decisions, but then I want to act quickly.
-* I am a husband/dad/foster dad with many creative hobbies. I recharge my batteries by finding solitude, reading, writing, making music, and (ironically for an introvert) performing.
+* I am a husband/dad dad with many creative hobbies. I recharge my batteries by finding solitude, reading, writing, making music, and (ironically for an introvert) performing.
 
 ## My work vision
 _It is my job and my privilege to help our engineering team become the most amazing version of itself. Here is what that looks like:_
@@ -23,7 +23,7 @@ _It is my job and my privilege to help our engineering team become the most amaz
 _I do a lot of things, but not everything. I will not..._
 1. **Talk around what I need to say.** I will be very clear with you, and I expect you to be clear with me as well. If it feels like I am being vague, say so. We are all adults, and I will do my best to facilitate proactive and with mature communication.
 2. **Micromanage you.** You were hired to be an expert, and you have my trust. I will give you feedback, and I will listen. You are always welcome to disagree. I may have to occasionally make a decision that you disagree with, and I will expect you to disagree and commit. But if you ever feel that I am ingoring your expertise or that you are not being heard, please say so!
-3. **Do your job** My job is to empower engineers to create great solutions, not to implement those solutions myself.
+3. **Do your job.** My job is to empower engineers to create great solutions, not to implement those solutions myself.
 
 ## How I communicate
 _I have quirks. Here they are._
@@ -50,7 +50,7 @@ _I am a sucker for personality tests, and I think personality types are fascinat
 _And it's a little crazy._
 
 1. My wife and I have been married for twenty-one years, and we're finally beginning to figure each other out.
-2. We have four daughters. The youngest is in kindergarten, the oldest is starting college. If I seem tired, this is almost certainly why. :)
+2. We have four daughters. The youngest is in kindergarten, the oldest is a freshman in college. If I seem tired, this is almost certainly why. :)
 3. I don't play video games, and I only watch a little television. I do my best to stay caught up on MCU and Star Wars, though, so feel free to discuss your fan theories with me!
 4. Reading is my TV, and I read a lot. You are welcome to connect with me on [Goodreads](http://goodreads.com/JoshTellsAStory) if you have an account there.
 5. Writing and music are my primary creative outlets. I wrote [this novel](http://bit.ly/sarah-ann-lewis) and [these songs](https://open.spotify.com/artist/4fBn6yF8Y97f4v1J8YcJ1v) (I sing and play several instruments; guitar is my go-to). I also dabble in photography and cooking, though I don't get to do either of those as often as I would like these days.
